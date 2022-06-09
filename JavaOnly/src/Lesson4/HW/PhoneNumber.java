@@ -12,6 +12,7 @@ public class PhoneNumber {
     Вывести информацию об объекте в консоль в одну строку
      */
 
+
     //HW1
     long num;
     String numType;
